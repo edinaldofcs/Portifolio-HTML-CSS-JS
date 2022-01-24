@@ -1,6 +1,6 @@
 # PROJETOS COM HTML, CSS E JAVASCRIPT
 ## Projeto 01 - Le Catering
-## link: https://edinaldofcs.github.io/Portifolio-HTML-CSS-JS/projeto01/
+## <a href="https://edinaldofcs.github.io/Portifolio-HTML-CSS-JS/projeto01/" target="_blank">Ver Projeto</a>🖥📱
 
 <img src="https://drive.google.com/uc?export=view&id=1CFT3sc0COXqcgJTYEim9SVEgKh3kniuQ">
 
